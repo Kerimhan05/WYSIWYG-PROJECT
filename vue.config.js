@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'WYSIWYG-PROJECT'
+    publicPath: '/WYSIWYG-PROJECT/'
 }
